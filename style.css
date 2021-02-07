@@ -1,0 +1,9 @@
+.bg-img {
+  background-image: url(https://www.freevector.com/uploads/vector/preview/30347/Creative_Geometric_Background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+div .card {
+  box-shadow: 0px 5px 5px grey;
+}
