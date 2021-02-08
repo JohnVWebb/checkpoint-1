@@ -14,7 +14,7 @@ h2 {
 
 .videobox {
   position: relative;
-  padding-bottom: 56.25%; /* 16:9 */
+  padding-bottom: 56.25%;
   height: 0;
 }
 .videobox iframe {
